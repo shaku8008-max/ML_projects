@@ -1,2 +1,2 @@
 # ML_projects
-I do use machine learning to predict outcomes of events
+I use machine learning to predict outcomes of events
