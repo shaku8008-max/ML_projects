@@ -39,7 +39,7 @@ Used for match results (date, teams, goals).
 
 The pipeline automatically downloads the latest data when run.
 
-🧠 Features Used
+Features Used
 
 Elo rating (with home advantage)
 
