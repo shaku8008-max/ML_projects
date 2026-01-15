@@ -17,8 +17,8 @@ venv/
 .ipynb_checkpoints/
 
 # Data (optional: keep raw/processed out of repo)
-data/raw/
-data/processed/
+# data/raw/
+# data/processed/
 
 # Models/outputs
 *.pkl
