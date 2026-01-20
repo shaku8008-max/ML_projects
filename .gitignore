@@ -1,29 +1,10 @@
-cat > .gitignore << 'EOF'
-# Python
+# ML artifacts
+data/raw/
+data/interim/
+data/processed/
+models/
+
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.egg-info/
-.dist-info/
-.env
-.venv/
-venv/
-
-# Mac
 .DS_Store
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Data (optional: keep raw/processed out of repo)
-# data/raw/
-# data/processed/
-
-# Models/outputs
-*.pkl
-*.joblib
-
-# VS Code
-.vscode/
-EOF
+.env
